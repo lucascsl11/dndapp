@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:dndapp/rec_senha.dart';
+import 'rec_senha.dart';
 
 class RecuperacaoSenhaCodigoPage extends StatefulWidget {
   const RecuperacaoSenhaCodigoPage({super.key});

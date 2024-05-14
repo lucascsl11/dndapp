@@ -1,4 +1,4 @@
-import 'package:dndapp/model/monster.dart';
+import 'monster.dart';
 
 class Folder {
   String name;

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:dndapp/biblioteca.dart';
-import 'package:dndapp/cadastro.dart';
-import 'package:dndapp/rec_senha_codigo.dart';
+import 'biblioteca.dart';
+import 'cadastro.dart';
+import 'rec_senha_codigo.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

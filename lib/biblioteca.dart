@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:dndapp/model/monster.dart';
+import 'model/monster.dart';
 
 class BibliotecaPage extends StatefulWidget {
   const BibliotecaPage({super.key});
